@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\кевин\\source\\repos\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj": {}
+    "C:\\Users\\кевин\\Documents\\GitHub\\TrainingPractice_01\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\кевин\\source\\repos\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj": {
+    "C:\\Users\\кевин\\Documents\\GitHub\\TrainingPractice_01\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\кевин\\source\\repos\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj",
+        "projectUniqueName": "C:\\Users\\кевин\\Documents\\GitHub\\TrainingPractice_01\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj",
         "projectName": "LVR_Task_02",
-        "projectPath": "C:\\Users\\кевин\\source\\repos\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj",
+        "projectPath": "C:\\Users\\кевин\\Documents\\GitHub\\TrainingPractice_01\\LVR_Task_01\\LVR_Task_02\\LVR_Task_02.csproj",
         "packagesPath": "C:\\Users\\кевин\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\кевин\\source\\repos\\LVR_Task_01\\LVR_Task_02\\obj\\",
+        "outputPath": "C:\\Users\\кевин\\Documents\\GitHub\\TrainingPractice_01\\LVR_Task_01\\LVR_Task_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\кевин\\AppData\\Roaming\\NuGet\\NuGet.Config",
