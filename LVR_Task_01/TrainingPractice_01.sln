@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVR_Task_01", "LVR_Task_01\LVR_Task_01.csproj", "{17087C23-FE82-4D26-92DD-8C2432AC770D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LVR_Task_01", "LVR_Task_01\LVR_Task_01.csproj", "{17087C23-FE82-4D26-92DD-8C2432AC770D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVR_Task_02", "LVR_Task_02\LVR_Task_02.csproj", "{29CF275A-53C0-45CE-9100-CF53C2E7284E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LVR_Task_02", "LVR_Task_02\LVR_Task_02.csproj", "{29CF275A-53C0-45CE-9100-CF53C2E7284E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVR_Task_03", "LVR_Task_03\LVR_Task_03.csproj", "{B49E69A9-866E-4F5E-973D-EA1F885F90CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{29CF275A-53C0-45CE-9100-CF53C2E7284E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29CF275A-53C0-45CE-9100-CF53C2E7284E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29CF275A-53C0-45CE-9100-CF53C2E7284E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49E69A9-866E-4F5E-973D-EA1F885F90CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49E69A9-866E-4F5E-973D-EA1F885F90CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49E69A9-866E-4F5E-973D-EA1F885F90CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49E69A9-866E-4F5E-973D-EA1F885F90CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
