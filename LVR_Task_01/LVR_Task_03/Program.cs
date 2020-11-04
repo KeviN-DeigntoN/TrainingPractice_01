@@ -26,7 +26,6 @@ namespace LVR_Task_03
             Console.WriteLine("Секретное сообщение");
             Console.WriteLine("________________________");
             Console.WriteLine($"{_seсret}");
-
         }
     }
 }
