@@ -6,7 +6,11 @@ namespace LVR_Task_02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string word = null;
+            while (word != "exit")
+            {
+                word = Console.ReadLine();
+            }
         }
     }
 }
