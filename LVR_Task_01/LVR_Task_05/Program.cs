@@ -5,7 +5,7 @@ namespace LVR_Task_05
 {
     class Program
     {
-        // Файл level.txt должен лежать в KES_Task_05/bin/debug/netcoreapp3.1
+        // Файл level.txt должен лежать в LVR_Task_05/bin/debug/netcoreapp3.1
         // Настройки:
         const char C_PLAYER = '■';
         const char C_ENEMY = '*';
