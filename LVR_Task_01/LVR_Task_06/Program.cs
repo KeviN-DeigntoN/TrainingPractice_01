@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KES_Task_06
+namespace LVR_Task_06
 {
     class Program
     {
