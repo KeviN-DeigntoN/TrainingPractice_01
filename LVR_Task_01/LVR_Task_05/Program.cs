@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Timers;
 
-namespace KES_Task_05
+namespace LVR_Task_05
 {
     class Program
     {
