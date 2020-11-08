@@ -1,0 +1,12 @@
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.AssemblyInfoInputs.cache
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.AssemblyInfo.cs
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.csproj.CoreCompileInputs.cache
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\bin\Debug\netcoreapp3.1\LVR_Task_07.exe
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\bin\Debug\netcoreapp3.1\LVR_Task_07.deps.json
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\bin\Debug\netcoreapp3.1\LVR_Task_07.runtimeconfig.json
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\bin\Debug\netcoreapp3.1\LVR_Task_07.runtimeconfig.dev.json
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\bin\Debug\netcoreapp3.1\LVR_Task_07.dll
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\bin\Debug\netcoreapp3.1\LVR_Task_07.pdb
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.dll
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.pdb
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.genruntimeconfig.cache
