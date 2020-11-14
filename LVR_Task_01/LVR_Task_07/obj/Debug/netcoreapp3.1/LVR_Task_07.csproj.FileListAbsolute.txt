@@ -10,3 +10,4 @@ C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07
 C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.dll
 C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.pdb
 C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.genruntimeconfig.cache
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_07\obj\Debug\netcoreapp3.1\LVR_Task_07.csprojAssemblyReference.cache

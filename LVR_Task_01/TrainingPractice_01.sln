@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LVR_Task_05", "LVR_Task_05\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LVR_Task_06", "LVR_Task_06\LVR_Task_06.csproj", "{2201F1D5-62AF-4A89-8B34-84BEDE568E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVR_Task_07", "LVR_Task_07\LVR_Task_07.csproj", "{5C215D89-96AA-4A2C-8F17-5B7C0632D15F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LVR_Task_07", "LVR_Task_07\LVR_Task_07.csproj", "{5C215D89-96AA-4A2C-8F17-5B7C0632D15F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVR_Task_Project", "LVR_Task_Project\LVR_Task_Project.csproj", "{C7552F0D-AF0A-4A3A-9FD0-984EF5389AC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5C215D89-96AA-4A2C-8F17-5B7C0632D15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C215D89-96AA-4A2C-8F17-5B7C0632D15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C215D89-96AA-4A2C-8F17-5B7C0632D15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7552F0D-AF0A-4A3A-9FD0-984EF5389AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7552F0D-AF0A-4A3A-9FD0-984EF5389AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7552F0D-AF0A-4A3A-9FD0-984EF5389AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7552F0D-AF0A-4A3A-9FD0-984EF5389AC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

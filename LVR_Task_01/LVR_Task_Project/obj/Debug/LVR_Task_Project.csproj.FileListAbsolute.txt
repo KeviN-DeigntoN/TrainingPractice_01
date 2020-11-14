@@ -1,0 +1,12 @@
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\bin\Debug\LVR_Task_Project.exe.config
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\bin\Debug\LVR_Task_Project.exe
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\bin\Debug\LVR_Task_Project.pdb
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.csprojAssemblyReference.cache
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.Form1.resources
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.Form2.resources
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.Properties.Resources.resources
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.csproj.GenerateResource.cache
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.csproj.CoreCompileInputs.cache
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.exe
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.pdb
+C:\Users\кевин\Documents\GitHub\TrainingPractice_01\LVR_Task_01\LVR_Task_Project\obj\Debug\LVR_Task_Project.Form3.resources
